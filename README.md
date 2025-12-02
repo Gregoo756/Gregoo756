@@ -22,39 +22,40 @@ Here are some ideas to get you started:
 
 ### 🌱 About Me
 - 🎓 Currently learning at **TechniSchools**
-- 🔭 Focusing on **C++** and **Python** (main priorities)  
-- 🛠️ Using **PHP, JS, TS, React, SQL, HTML/CSS** for school projects/exams  
-- 🤖 Interested in **Robotics** (will dive deeper once my C++ is solid)  
+- 🔭 Focusing on **C**, **C++**, **Assembly** and **Python** (main priorities)  
+- 🛠️ Using **PHP, JS, TS, React, SQL, HTML/CSS, TailWind** for school projects/exams  
+- 🤖 Interested in **Mechatronic engineering**  
 - 🎯 Goal: study **Mechatronics at Politechnika Lubelska**
 
 ---
 
 ### 🧰 Languages & Tools
-<p align="left">
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-</p>
-
+  ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
+  ![Assembly](https://img.shields.io/badge/Assembly-000?style=for-the-badge&logo=assembly&logoColor=white) <!-- I couldn't find a logo (maybe it will be added someday) -->
+  ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
+  ![Neovim](https://img.shields.io/badge/Neovim-000?style=for-the-badge&logo=neovim&logoColor=white)
+  ![Fusion 360](https://img.shields.io/badge/Fusion%20360-000?style=for-the-badge&logo=autodesk&logoColor=white)
+  ![Mechatronics](https://img.shields.io/badge/Mechatronics-000?style=for-the-badge&logo=githubactions&logoColor=white)
+  ![Electronics](https://img.shields.io/badge/Electronics-000?style=for-the-badge&logo=zap&logoColor=white) <!-- I couldn't find a better logo -->
+  ![Arduino](https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=arduino&logoColor=white)
+  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-000?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ---
 
 ### 🏋️ Other Interests
-- ♟️ Chess  
-- 🚵 MTB (trail building and riding)  
-- 💪 Calisthenics
+- Chess  
+- MTB (trail building and riding)  
+- Calisthenics
+- Airsoft
+- Music (playing electric guitar)
 
 ---
 
 ### 🎯 Goals
-- 📚 Pass **INF.02, INF.03 and INF.04 exams**  
-- ⚙️ Get comfortable with **C++ and Python**  
+- 📚 Pass **INF.03 and INF.04 exams**  
+- ⚙️ Get comfortable with **riority langs**  
 - 🤖 Start building a **robotics project** I was planning
 
 ---
