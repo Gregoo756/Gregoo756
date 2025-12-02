@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Gregory</h1>
 <h3 align="center">Student at TechniSchools Lublin</h3>
 
-🧩 [CodeCamp 2025 Project](https://github.com/Loleku/codecamp-2025) – Built with my team to make coding education more accessible  
-🏆 3rd place at **Techni Code Camp 2025**
-
 ---
 
 ### 🌱 About Me
@@ -42,6 +39,11 @@ Here are some ideas to get you started:
   ![Electronics](https://img.shields.io/badge/Electronics-000?style=for-the-badge&logo=zap&logoColor=white) <!-- I couldn't find a better logo -->
   ![Arduino](https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=arduino&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-000?style=for-the-badge&logo=raspberrypi&logoColor=white)
+---
+
+🧩 [CodeCamp 2025 Project](https://github.com/Loleku/codecamp-2025) – Built with my team to make coding education more accessible  
+🏆 3rd place at **Techni Code Camp 2025**
+
 ---
 
 ### 🏋️ Other Interests
