@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ### 🎯 Goals
 - 📚 Pass **INF.03 and INF.04 exams**  
-- ⚙️ Get comfortable with **riority langs**  
+- ⚙️ Get comfortable with **priority langs**  
 - 🤖 Start building a **robotics project** I was planning
 
 ---
