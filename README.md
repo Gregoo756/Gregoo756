@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### 🌱 About Me
 - 🎓 Currently learning at **TechniSchools**
-- 🔭 Focusing on **C**, **C++**, **Assembly** and **Python** (main priorities)  
+- 🔭 Focusing on **C/C++**, **ARM Assembly** and **Python** (main priorities)  
 - 🛠️ Using **PHP, JS, TS, React, SQL, HTML/CSS, TailWind** for school projects/exams  
-- 🤖 Interested in **Mechatronic engineering**  
+- 🤖 Interested in **Mechatronics Engineering** and **embedded systems**
 - 🎯 Goal: study **Mechatronics at Politechnika Lubelska**
 
 ---
@@ -30,20 +30,11 @@ Here are some ideas to get you started:
   ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
-  ![Assembly](https://img.shields.io/badge/Assembly-000?style=for-the-badge&logo=assembly&logoColor=white) <!-- I couldn't find a logo (maybe it will be added someday) -->
   ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
   ![Neovim](https://img.shields.io/badge/Neovim-000?style=for-the-badge&logo=neovim&logoColor=white)
   ![Fusion 360](https://img.shields.io/badge/Fusion%20360-000?style=for-the-badge&logo=autodesk&logoColor=white)
-  ![Mechatronics](https://img.shields.io/badge/Mechatronics-000?style=for-the-badge&logo=githubactions&logoColor=white)
-  ![Electronics](https://img.shields.io/badge/Electronics-000?style=for-the-badge&logo=zap&logoColor=white) <!-- I couldn't find a better logo -->
-  ![Arduino](https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=arduino&logoColor=white)
-  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-000?style=for-the-badge&logo=raspberrypi&logoColor=white)
----
-
-🧩 [CodeCamp 2025 Project](https://github.com/Loleku/codecamp-2025) – Built with my team to make coding education more accessible  
-🏆 3rd place at **Techni Code Camp 2025**
-
+  
 ---
 
 ### 🏋️ Other Interests
@@ -52,6 +43,11 @@ Here are some ideas to get you started:
 - Calisthenics
 - Airsoft
 - Music (playing electric guitar)
+
+---
+
+🧩 [CodeCamp 2025 Project](https://github.com/Loleku/codecamp-2025) – Built with my team to make coding education more accessible  
+🏆 3rd place at **Techni Code Camp 2025**
 
 ---
 
