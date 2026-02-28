@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 
 📫 Reach me: **gregorm777@protonmail.com**  
 📸 Instagram: [@gregoo756](https://instagram.com/gregoo756) <br>
-🔗 **LinkedIn:** [Grzegorz Makowksi](https://linkedin.com/in/grzegorz-makowski-b9b4243a8) 
+🔗 **LinkedIn:** [Grzegorz Makowksi](https://linkedin.com/in/gregoo756) 
