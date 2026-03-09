@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ---
 
 🧩 [CodeCamp 2025 Project](https://github.com/Loleku/codecamp-2025) – Built with my team to make coding education more accessible  
-🏆 3rd place at **Techni Code Camp 2025**
+🏆 3rd place at [**Techni Code Camp 2025**](https://technischools.com/blog/techni-code-camp-2025)
 
 ---
 
